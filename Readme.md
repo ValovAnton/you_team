@@ -9,6 +9,12 @@
 
 #### Проект использует FastAPI, Flask, SQLAlchemy, Docker и Docker Compose.
 
+* Для клонирования с GitHub 
+```
+ git clone https://github.com/ValovAnton/you_team.git
+ cd you
+```
+
 * Для запуска проекта используется Docker Compose.
 ```
  docker compose up --build
